@@ -1,0 +1,26 @@
+
+.l-page {
+	margin: auto;
+	width:1536px;
+	height:2048px;
+}
+
+.l-even-header {
+    font-family: arial-black;
+    text-align: center;
+    font-size: 1.1em;
+}
+
+.l-even-body {
+    font-family: georgia;
+    margin-left: 12.5%;
+    margin-right: 12.5%;
+    line-height: 1.5em;
+    font-size: 1em;
+}
+
+.l-even-pgnumber {
+	font-family: arial-black;
+	text-align: center;
+    font-size: 1.1em;
+}
