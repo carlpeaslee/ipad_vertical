@@ -1,8 +1,8 @@
 
 .l-page {
-	margin: auto;
-	width:1536px;
-	height:2048px;
+    margin: auto;
+    width:1536px;
+    height:2048px;
 }
 
 .l-even-header {
@@ -20,7 +20,7 @@
 }
 
 .l-even-pgnumber {
-	font-family: arial-black;
-	text-align: center;
+    font-family: arial-black;
+    text-align: center;
     font-size: 1.1em;
 }
